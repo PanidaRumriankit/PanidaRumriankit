@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My expertise lies primarily in front-end development. However, I am actively expanding my knowledge in back-end development, as I am passionate about Java 🤔
+My expertise lies primarily in front-end development. However, I am actively expanding my knowledge in back-end development. 🤔
 
 Tech stack: Next.js, Django, MySQL
 
